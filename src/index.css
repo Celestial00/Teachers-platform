@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this to your global CSS (e.g., index.css) */
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
